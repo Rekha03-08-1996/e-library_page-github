@@ -1,0 +1,49 @@
+.heading{
+    position: fixed;
+    top: 0px;
+    height: 20px;
+    width: 100vw;
+    background-color:rgb(67, 129, 109);
+    color: white;
+    font-size: 18px;
+    padding: 16px;
+
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    font-family: 'Bree Serif',serif;
+}
+.img img{
+    margin-top:  14px;
+    margin-left: 40px;
+}
+.img{
+    margin-bottom: 14px;
+}
+.img h1{
+    position: absolute;
+    top: -15px;
+    left: 110px;
+    color: rgb(255, 127, 127);
+}
+
+
+.links{
+    position: absolute;
+    top: 18px;
+    right: 15px;
+}
+.links a{
+    text-decoration: none;
+    font-size: 1rem;
+    margin-left: 40px;
+    color: rgb(255, 127, 127);
+}
+.links a:hover{
+    color: red;
+    transition: 0.5s;
+    text-decoration: underline;
+}

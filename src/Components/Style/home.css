@@ -1,0 +1,40 @@
+
+.home{
+    height: 50px;
+    width: 100vw;
+    background-color: white;
+    font-family: 'Bree Serif',serif;
+    font-family: cursive;
+    
+}
+.home a{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    margin-left: 20px;
+}
+.home a:hover{
+    color: red;
+}
+#landyimg{
+    width: 100vw;
+    height: 90vh;
+    background-size: cover;
+}
+.landy1{
+    height: 240px;
+    width: 70%;
+    background-color: white;
+    position: absolute;
+    top: 300px;
+    padding-top: 30px;
+    padding-left: 40px;
+    opacity: 0.9;
+}
+.landy h1{
+    font-size: 55px;;
+    margin: 0px;
+}
+.landy p{
+    font-size: 22px;
+}
